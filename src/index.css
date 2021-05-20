@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family:cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0px 0 10px 0;
+}
+
+td{
+
+  color:Navy;
+  font-size:20px;
+  font-family:cursive;
+}
+th{
+  /* cursor: pointer; */
+  color:orange;
+  font-size:20px;
+  font-family:cursive;
+  cursor: pointer;
+}
+li.Navitems{
+   color:orange;
+  font-size:20px;
+  font-family:cursive;
+  cursor: pointer;
+  padding-left: 10px;
+  text-decoration: none;
+}
+Link{
+  padding-left: 10px;
+}
+i{
+  color:royalblue;
+}
+.navbar{
+  color:rgb(240, 45, 11);
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+a.nav-link{
+  color:black;
+}
